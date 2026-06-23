@@ -1,0 +1,50 @@
+// ========== 游戏商店主题色变量 ==========
+
+// 主色调 - 深色科技风
+$bg-primary: #1b2838;        // 主背景色
+$bg-secondary: #171a21;      // 导航栏背景
+$bg-card: #16202d;           // 卡片背景
+$bg-hover: #2a3f5a;          // 悬停背景
+
+// 强调色
+$color-accent: #66c0f4;      // Steam蓝 - 按钮/链接
+$color-accent-hover: #1999e0;
+$color-price: #a4d007;       // 价格绿
+$color-discount: #beee11;    // 折扣亮绿
+$color-danger: #e74c3c;      // 删除/警告红
+
+// 文字色
+$text-primary: #c7d5e0;      // 主要文字
+$text-secondary: #8f98a0;    // 次要文字
+$text-dim: #4f5b66;          // 淡色文字
+$text-white: #ffffff;
+
+// 边框
+$border-color: #2a3f5a;
+
+// 间距
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+$spacing-xxl: 48px;
+
+// 圆角
+$radius-sm: 4px;
+$radius-md: 8px;
+$radius-lg: 12px;
+
+// 字体
+$font-family: 'Microsoft YaHei', 'PingFang SC', Arial, Helvetica, sans-serif;
+$font-size-sm: 12px;
+$font-size-base: 14px;
+$font-size-lg: 16px;
+$font-size-xl: 20px;
+$font-size-xxl: 28px;
+
+// 导航栏高度
+$navbar-height: 60px;
+
+// 内容最大宽度
+$max-width: 1200px;

@@ -1,0 +1,46 @@
+{
+  "carousel": [
+    { "id": 1, "title": "赛博朋克 2077", "desc": "开启夜之城的冒险之旅", "image": "https://picsum.photos/seed/cyberpunk/1200/400", "link": "/game/1" },
+    { "id": 2, "title": "艾尔登法环", "desc": "成为艾尔德之王", "image": "https://picsum.photos/seed/eldenring/1200/400", "link": "/game/2" },
+    { "id": 3, "title": "黑神话：悟空", "desc": "踏上西游之路", "image": "https://picsum.photos/seed/wukong/1200/400", "link": "/game/3" }
+  ],
+  "hot": [
+    { "id": 1, "name": "赛博朋克 2077", "category": "角色扮演", "price": 298, "originalPrice": 398, "cover": "https://picsum.photos/seed/game1/300/400", "tags": ["开放世界", "科幻"], "rating": 4.5 },
+    { "id": 2, "name": "艾尔登法环", "category": "动作角色扮演", "price": 298, "originalPrice": 398, "cover": "https://picsum.photos/seed/game2/300/400", "tags": ["魂系", "奇幻"], "rating": 4.8 },
+    { "id": 3, "name": "黑神话：悟空", "category": "动作冒险", "price": 268, "originalPrice": 328, "cover": "https://picsum.photos/seed/game3/300/400", "tags": ["神话", "动作"], "rating": 4.7 },
+    { "id": 4, "name": "荒野大镖客2", "category": "动作冒险", "price": 249, "originalPrice": 349, "cover": "https://picsum.photos/seed/game4/300/400", "tags": ["西部", "开放世界"], "rating": 4.9 },
+    { "id": 5, "name": "巫师3：狂猎", "category": "角色扮演", "price": 127, "originalPrice": 199, "cover": "https://picsum.photos/seed/game5/300/400", "tags": ["奇幻", "剧情"], "rating": 4.8 }
+  ],
+  "new": [
+    { "id": 6, "name": "星际战甲 2026", "category": "射击", "price": 0, "originalPrice": 0, "cover": "https://picsum.photos/seed/game6/300/400", "tags": ["科幻", "合作"], "rating": 4.3 },
+    { "id": 7, "name": "幻兽帕鲁", "category": "生存冒险", "price": 108, "originalPrice": 128, "cover": "https://picsum.photos/seed/game7/300/400", "tags": ["生存", "收集"], "rating": 4.4 },
+    { "id": 8, "name": "潜水员戴夫", "category": "模拟经营", "price": 80, "originalPrice": 108, "cover": "https://picsum.photos/seed/game8/300/400", "tags": ["休闲", "像素"], "rating": 4.6 },
+    { "id": 9, "name": "空洞骑士：丝之歌", "category": "动作冒险", "price": 148, "originalPrice": 198, "cover": "https://picsum.photos/seed/game9/300/400", "tags": ["类银河城", "手绘"], "rating": 4.7 },
+    { "id": 10, "name": "博德之门3", "category": "角色扮演", "price": 298, "originalPrice": 368, "cover": "https://picsum.photos/seed/game10/300/400", "tags": ["CRPG", "龙与地下城"], "rating": 4.9 }
+  ],
+  "free": [
+    { "id": 11, "name": "CS:GO", "category": "射击", "price": 0, "originalPrice": 0, "cover": "https://picsum.photos/seed/game11/300/400", "tags": ["竞技", "FPS"], "rating": 4.5 },
+    { "id": 12, "name": "DOTA 2", "category": "MOBA", "price": 0, "originalPrice": 0, "cover": "https://picsum.photos/seed/game12/300/400", "tags": ["竞技", "策略"], "rating": 4.3 },
+    { "id": 13, "name": "原神", "category": "角色扮演", "price": 0, "originalPrice": 0, "cover": "https://picsum.photos/seed/game13/300/400", "tags": ["开放世界", "二次元"], "rating": 4.4 },
+    { "id": 14, "name": "永劫无间", "category": "动作竞技", "price": 0, "originalPrice": 0, "cover": "https://picsum.photos/seed/game14/300/400", "tags": ["武侠", "大逃杀"], "rating": 4.2 },
+    { "id": 15, "name": "堡垒之夜", "category": "射击", "price": 0, "originalPrice": 0, "cover": "https://picsum.photos/seed/game15/300/400", "tags": ["大逃杀", "建造"], "rating": 4.1 }
+  ],
+  "allGames": [
+    { "id": 1, "name": "赛博朋克 2077", "category": "角色扮演", "price": 298, "originalPrice": 398, "cover": "https://picsum.photos/seed/game1/300/400", "tags": ["开放世界", "科幻"], "rating": 4.5, "description": "《赛博朋克 2077》是一款开放世界动作冒险角色扮演游戏，故事发生在夜之城——一座沉迷于权力、魅力和身体改造的大都市。", "screenshots": ["https://picsum.photos/seed/s1/800/450", "https://picsum.photos/seed/s2/800/450", "https://picsum.photos/seed/s3/800/450"] },
+    { "id": 2, "name": "艾尔登法环", "category": "动作角色扮演", "price": 298, "originalPrice": 398, "cover": "https://picsum.photos/seed/game2/300/400", "tags": ["魂系", "奇幻"], "rating": 4.8, "description": "《艾尔登法环》以黑暗奇幻世界为舞台，玩家将探索广阔的场景，面对强大的敌人，揭开世界的秘密。", "screenshots": ["https://picsum.photos/seed/s4/800/450", "https://picsum.photos/seed/s5/800/450", "https://picsum.photos/seed/s6/800/450"] },
+    { "id": 3, "name": "黑神话：悟空", "category": "动作冒险", "price": 268, "originalPrice": 328, "cover": "https://picsum.photos/seed/game3/300/400", "tags": ["神话", "动作"], "rating": 4.7, "description": "《黑神话：悟空》是一款以中国神话为背景的动作角色扮演游戏，玩家将扮演一位天命人，踏上一条充满危险与惊奇的西游之路。", "screenshots": ["https://picsum.photos/seed/s7/800/450", "https://picsum.photos/seed/s8/800/450", "https://picsum.photos/seed/s9/800/450"] },
+    { "id": 4, "name": "荒野大镖客2", "category": "动作冒险", "price": 249, "originalPrice": 349, "cover": "https://picsum.photos/seed/game4/300/400", "tags": ["西部", "开放世界"], "rating": 4.9, "description": "《荒野大镖客2》讲述了一个关于美国西部末期的史诗故事，玩家将扮演亚瑟·摩根，在广袤的荒野中展开冒险。", "screenshots": ["https://picsum.photos/seed/s10/800/450", "https://picsum.photos/seed/s11/800/450", "https://picsum.photos/seed/s12/800/450"] },
+    { "id": 5, "name": "巫师3：狂猎", "category": "角色扮演", "price": 127, "originalPrice": 199, "cover": "https://picsum.photos/seed/game5/300/400", "tags": ["奇幻", "剧情"], "rating": 4.8, "description": "《巫师3：狂猎》是一款以故事驱动的开放世界角色扮演游戏，玩家将扮演猎魔人杰洛特，寻找预言之子。", "screenshots": ["https://picsum.photos/seed/s13/800/450", "https://picsum.photos/seed/s14/800/450", "https://picsum.photos/seed/s15/800/450"] },
+    { "id": 6, "name": "星际战甲 2026", "category": "射击", "price": 0, "originalPrice": 0, "cover": "https://picsum.photos/seed/game6/300/400", "tags": ["科幻", "合作"], "rating": 4.3, "description": "一款科幻题材的多人合作射击游戏，在广阔的宇宙中与好友一起战斗。", "screenshots": ["https://picsum.photos/seed/s16/800/450", "https://picsum.photos/seed/s17/800/450"] },
+    { "id": 7, "name": "幻兽帕鲁", "category": "生存冒险", "price": 108, "originalPrice": 128, "cover": "https://picsum.photos/seed/game7/300/400", "tags": ["生存", "收集"], "rating": 4.4, "description": "收集神奇的生物帕鲁，派遣它们战斗、建造、劳作，在这个广阔的开放世界中生存下去。", "screenshots": ["https://picsum.photos/seed/s18/800/450", "https://picsum.photos/seed/s19/800/450"] },
+    { "id": 8, "name": "潜水员戴夫", "category": "模拟经营", "price": 80, "originalPrice": 108, "cover": "https://picsum.photos/seed/game8/300/400", "tags": ["休闲", "像素"], "rating": 4.6, "description": "白天探索深海捕鱼，晚上经营寿司店，一款融合冒险与经营的有趣游戏。", "screenshots": ["https://picsum.photos/seed/s20/800/450", "https://picsum.photos/seed/s21/800/450"] },
+    { "id": 9, "name": "空洞骑士：丝之歌", "category": "动作冒险", "price": 148, "originalPrice": 198, "cover": "https://picsum.photos/seed/game9/300/400", "tags": ["类银河城", "手绘"], "rating": 4.7, "description": "在精美的手绘世界中探索、战斗，揭开古老王国的秘密。", "screenshots": ["https://picsum.photos/seed/s22/800/450", "https://picsum.photos/seed/s23/800/450"] },
+    { "id": 10, "name": "博德之门3", "category": "角色扮演", "price": 298, "originalPrice": 368, "cover": "https://picsum.photos/seed/game10/300/400", "tags": ["CRPG", "龙与地下城"], "rating": 4.9, "description": "基于D&D规则的角色扮演游戏，召集你的队伍，在被遗忘的国度中书写传奇。", "screenshots": ["https://picsum.photos/seed/s24/800/450", "https://picsum.photos/seed/s25/800/450"] },
+    { "id": 11, "name": "CS:GO", "category": "射击", "price": 0, "originalPrice": 0, "cover": "https://picsum.photos/seed/game11/300/400", "tags": ["竞技", "FPS"], "rating": 4.5, "description": "全球最受欢迎的战术竞技射击游戏，团队配合与枪法的终极考验。", "screenshots": ["https://picsum.photos/seed/s26/800/450"] },
+    { "id": 12, "name": "DOTA 2", "category": "MOBA", "price": 0, "originalPrice": 0, "cover": "https://picsum.photos/seed/game12/300/400", "tags": ["竞技", "策略"], "rating": 4.3, "description": "经典的MOBA游戏，选择你的英雄，与队友一起摧毁敌方遗迹。", "screenshots": ["https://picsum.photos/seed/s27/800/450"] },
+    { "id": 13, "name": "原神", "category": "角色扮演", "price": 0, "originalPrice": 0, "cover": "https://picsum.photos/seed/game13/300/400", "tags": ["开放世界", "二次元"], "rating": 4.4, "description": "在提瓦特大陆上自由探索，与各色角色相遇，揭开世界背后的秘密。", "screenshots": ["https://picsum.photos/seed/s28/800/450"] },
+    { "id": 14, "name": "永劫无间", "category": "动作竞技", "price": 0, "originalPrice": 0, "cover": "https://picsum.photos/seed/game14/300/400", "tags": ["武侠", "大逃杀"], "rating": 4.2, "description": "一款武侠风格的多人动作竞技游戏，飞索纵横，刀光剑影。", "screenshots": ["https://picsum.photos/seed/s29/800/450"] },
+    { "id": 15, "name": "堡垒之夜", "category": "射击", "price": 0, "originalPrice": 0, "cover": "https://picsum.photos/seed/game15/300/400", "tags": ["大逃杀", "建造"], "rating": 4.1, "description": "在大逃杀模式中，建造防御工事，击败所有对手成为最后的胜利者。", "screenshots": ["https://picsum.photos/seed/s30/800/450"] }
+  ],
+  "categories": ["全部", "动作冒险", "角色扮演", "射击", "生存冒险", "模拟经营", "MOBA", "动作竞技", "动作角色扮演"]
+}
