@@ -1,16 +1,16 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "es2020",
     "module": "esnext",
-    "baseUrl": "./",
-    "moduleResolution": "node",
+    
+    "moduleResolution": "bundler",
     "paths": {
       "@/*": [
-        "src/*"
+        "./src/*"
       ]
     },
     "lib": [
-      "esnext",
+      "es2020",
       "dom",
       "dom.iterable",
       "scripthost"
